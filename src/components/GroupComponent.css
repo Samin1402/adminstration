@@ -1,0 +1,142 @@
+.component-child,
+.my-profile {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-child {
+  height: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.12);
+}
+.my-profile {
+  letter-spacing: -0.18px;
+  line-height: 28px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.group-icon,
+.my-profile-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 80.37%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 19.63%;
+}
+.group-icon {
+  height: 54.08%;
+  width: 11.21%;
+  top: 19.64%;
+  right: 89.25%;
+  bottom: 26.28%;
+  left: -0.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-container {
+  position: absolute;
+  height: 19.44%;
+  width: 62.57%;
+  top: 6.94%;
+  right: 28.07%;
+  bottom: 73.61%;
+  left: 9.36%;
+}
+.component-inner,
+.component-item {
+  position: absolute;
+  height: 0.69%;
+  width: 100.58%;
+  top: 32.99%;
+  right: -0.29%;
+  bottom: 66.32%;
+  left: -0.29%;
+  border-top: 1px solid #d8d8d8;
+  box-sizing: border-box;
+}
+.component-inner {
+  top: 66.32%;
+  bottom: 32.99%;
+}
+.message-square-icon {
+  position: absolute;
+  height: 78.57%;
+  width: 14.86%;
+  top: 14.29%;
+  right: 85.14%;
+  bottom: 7.14%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chats-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 81.76%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 18.24%;
+}
+.message-square-parent {
+  position: absolute;
+  height: 19.44%;
+  width: 86.55%;
+  top: 40.28%;
+  right: 7.6%;
+  bottom: 40.28%;
+  left: 5.85%;
+}
+.sign-out {
+  position: absolute;
+  width: 80.37%;
+  top: 0;
+  left: 19.63%;
+  letter-spacing: -0.18px;
+  line-height: 28px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.group-child2 {
+  position: absolute;
+  height: 42.86%;
+  width: 11.21%;
+  top: 30.36%;
+  right: 89.25%;
+  bottom: 26.79%;
+  left: -0.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sign-out-parent {
+  position: absolute;
+  height: 19.44%;
+  width: 62.57%;
+  top: 73.61%;
+  right: 28.65%;
+  bottom: 6.94%;
+  left: 8.77%;
+}
+.rectangle-root {
+  position: relative;
+  width: 171px;
+  height: 144px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Montserrat;
+}
